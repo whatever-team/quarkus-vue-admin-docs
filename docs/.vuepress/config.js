@@ -2,6 +2,7 @@ module.exports = {
     theme: 'antdocs',
     title: 'Quarkus-Vue-Admin',
     description: '试试Quarkus+Vue，有点有趣',
+    base: '/quarkus-vue-admin-docs/',
     // 插件
     plugins: {},
     // 头部
