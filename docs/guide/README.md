@@ -42,7 +42,7 @@ title: 项目介绍
 
 ## 如何贡献
 
-如果你希望参与贡献，欢迎 [Pull Request](https://github.com/zpfz/vuepress-theme-antdocs/pulls)（上榜！)，或给我们 [报告 Bug](https://github.com/zpfz/vuepress-theme-antdocs/issues) 。
+如果你希望参与贡献，欢迎 [Pull Request](https://github.com/whatever-team/quarkus-vue-admin/pulls)（上榜！)，或给我们 [报告 Bug](https://github.com/zpfz/vuepress-theme-antdocs/issues) 。
 
 > 强烈推荐阅读 [《如何有效地报告 Bug》](https://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html)，更好的问题更容易获得帮助。
 

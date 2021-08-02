@@ -5,7 +5,14 @@ module.exports = {
             children: [
                 '/guide/',
                 '/guide/getting-started',
-                '/guide/install',
+                '/guide/why-me',
+            ]
+        },
+        {
+            title: '部署发布',
+            children: [
+                '/guide/deploy/',
+                '/guide/deploy/jar',
             ]
         },
         '/guide/server/',
