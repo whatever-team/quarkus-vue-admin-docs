@@ -40,6 +40,14 @@ title: 项目介绍
 - 数据库：采用MySql，使用JPA实现对数据库的增删改查操作
 - API文档：使用Swagger构建自动化文档
 
+## 截图预览
+
+<img src="/quarkus-vue-admin-docs/snap01.png"/>
+<img src="/quarkus-vue-admin-docs/snap02.png"/>
+<img src="/quarkus-vue-admin-docs/snap03.png"/>
+<img src="/quarkus-vue-admin-docs/snap04.png"/>
+<img src="/quarkus-vue-admin-docs/snap05.png"/>
+
 ## 如何贡献
 
 如果你希望参与贡献，欢迎 [Pull Request](https://github.com/whatever-team/quarkus-vue-admin/pulls)（上榜！)，或给我们 [报告 Bug](https://github.com/zpfz/vuepress-theme-antdocs/issues) 。

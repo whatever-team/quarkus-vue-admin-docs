@@ -15,7 +15,7 @@ title: 快速开始
 
 ### 基础开发环境
 
-- JDK: 1.8
+- JDK: 11
 - Maven: 3.5+
 - MySql: 5.7+
 - Node Js: 10.0+
@@ -74,4 +74,4 @@ quarkus.datasource.jdbc.url=jdbc:mysql://localhost:3306/quarkus-vue-admin
 
 ## 效果预览
 
-<p align="center"><img src="https://s2.ax1x.com/2020/02/28/3B3lOf.png"/></p>
+<p align="center"><img src="/quarkus-vue-admin-docs/snap01.png"/></p>
